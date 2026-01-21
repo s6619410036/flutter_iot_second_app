@@ -10,7 +10,7 @@ class HomeUi extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.purpleAccent[100],
+      backgroundColor: Colors.amber,
       body: Center(
         child: Column(
           children: [
